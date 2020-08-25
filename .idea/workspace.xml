@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a3911d3-0a1d-441b-b555-1b3af1e6bbda" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yl7MpWBvBGReRUp5xaiQZFzx0f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../facebook" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/view/index.html" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ahmad\public\image" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a3911d3-0a1d-441b-b555-1b3af1e6bbda" name="Default Changelist" comment="" />
+      <created>1583505281024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583505281024</updated>
+      <workItem from="1583505282351" duration="3508000" />
+      <workItem from="1583656966014" duration="9684000" />
+      <workItem from="1583683758796" duration="13000" />
+      <workItem from="1583746448044" duration="7344000" />
+      <workItem from="1583914879427" duration="6728000" />
+      <workItem from="1587400630755" duration="618000" />
+      <workItem from="1587954695170" duration="76000" />
+      <workItem from="1588644869946" duration="62000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1583505472619">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583505472619" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1588644930101">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588644930101" />
+    <state x="794" y="440" key="NewPhpFileDialog" timestamp="1587400639766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1126" y="375" key="NewPhpFileDialog/0.0.1920.1040/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1583665901005" />
+    <state x="794" y="440" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587400639766" />
+    <state x="636" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1588644872988">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588644872988" />
+    <state x="616" y="273" key="run.anything.popup" timestamp="1583750612848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1304" y="208" key="run.anything.popup/0.0.1920.1040/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1583664160729" />
+    <state x="616" y="273" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583750612848" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1583751098532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1297" y="160" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.-65.1920.1040@-1920.-65.1920.1040" timestamp="1583665910727" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583751098532" />
+  </component>
+</project>
